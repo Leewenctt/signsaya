@@ -3,7 +3,7 @@
 <img src="assets/Logo.png" alt="Logo" width="40%" />
 <br>
 
-A Mobile Application for Filipino Sign Language Interpretation Using Real-Time Gesture Recognition to Aid in Deaf Communication
+A Mobile Application for Filipino Sign Language Interpretation Using Real-Time Gesture Recognition
 
 <p>
   <img src="https://img.shields.io/badge/Android-8.0+-3DDC84?style=flat-square&logo=android&logoColor=white"/>
